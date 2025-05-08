@@ -1,0 +1,13 @@
+name: cern_flavour_school
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10  
+  - root         
+  - numpy
+  - scipy
+  - matplotlib
+  - pip
+  - pip:
+    - iminuit>=2.0
+    - zfit
