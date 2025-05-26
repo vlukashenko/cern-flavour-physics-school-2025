@@ -8,6 +8,7 @@ dependencies:
   - pandas
   - scipy
   - matplotlib
+  - mplhep
   - pip
   - pip:
     - iminuit>=2.0
